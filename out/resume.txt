@@ -1,0 +1,43 @@
+Anna Holovina
+Email: anyapress777@gmail.com
+Tel: +38 (095) 431-89-76
+Web: https://github.com/golovinaGit
+================================================================================
+
+Liable engineer, well-experienced in HTML/CSS/JS, Object-oriented programming <strong>C#</strong>.
+
+SKILLS -------------------------------------------------------------------------
+
+- Web Dev/Testing: HTML5 CSS NET Core REST API Working with bug tracking systems (Jira, TestRail). Bug lifecycle Basic knowledge HTML/CSS/JS and OOP Manual testing Function testing Usability testing, Regression testing, Cross-browser testing Google Chrome Dev tools Knowledge of Software Testing Life Cycle, Test Design Techniques Software testing approaches (BDD) Acquainted with Agile. Kanban Postman (API testing) 
+
+
+
+
+EDUCATION ----------------------------------------------------------------------
+
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute (2013-09 — 2018-02)
+
+
+
+
+
+READING ------------------------------------------------------------------------
+
+"Javascript Weekly newsletter"
+https://javascriptweekly.com/
+
+"Frontend Focus newsletter"
+https://frontendfoc.us/
+
+"Medium Subscriber"
+https://medium.com/
+
+
+
+RECOGNITION --------------------------------------------------------------------
+
+C# Intermediate: Classes, Interfaces and OOP, Udemy (Jan 2020)
+An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#
+
+
+

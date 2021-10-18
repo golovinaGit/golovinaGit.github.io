@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Anna Holovina",
+    "label": "QA Engineer",
+    "summary": "Liable engineer, well-experienced in HTML/CSS/JS, Object-oriented programming <strong>C#</strong>.",
+    "website": "https://github.com/golovinaGit",
+    "phone": "+38 (095) 431-89-76",
+    "email": "anyapress777@gmail.com",
+    "picture": "https://1drv.ms/u/s!ApXwf6UyDzJahzBV2sOUDGviRlHE",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "golovinaGit",
+        "url": "https://github.com/golovinaGit"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute",
+      "gpa": "A",
+      "startDate": "2013-09",
+      "endDate": "2018-02"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Dev/Testing",
+      "level": "intermediate",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "NET Core",
+        "REST API",
+        "Working with bug tracking systems (Jira, TestRail).",
+        "Bug lifecycle",
+        "Basic knowledge HTML/CSS/JS and OOP",
+        "Manual testing",
+        "Function testing",
+        "Usability testing,",
+        "Regression testing,",
+        "Cross-browser testing",
+        "Google Chrome Dev tools",
+        "Knowledge of Software Testing Life Cycle, Test Design Techniques",
+        "Software testing approaches (BDD)",
+        "Acquainted with Agile. Kanban",
+        "Postman (API testing)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "ceretificate",
+      "url": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+      "title": "C# Intermediate: Classes, Interfaces and OOP",
+      "date": "2020",
+      "awarder": "Udemy",
+      "summary": "An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "intermediate"
+    },
+    {
+      "language": "Russian",
+      "level": "native"
+    },
+    {
+      "language": "Ukrainian",
+      "level": "native"
+    }
+  ]
+}

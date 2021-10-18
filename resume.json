@@ -1,0 +1,102 @@
+{
+  "name": "Anna Holovina",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "QA Engineer",
+    "brief": "Liable engineer, well-experienced in HTML/CSS/JS, Object-oriented programming <strong>C#</strong>.",
+    "image": "https://1drv.ms/u/s!ApXwf6UyDzJahzBV2sOUDGviRlHE"
+  },
+  "contact": {
+    "website": "https://github.com/golovinaGit",
+    "phone": "+38 (095) 431-89-76",
+    "email": "anyapress777@gmail.com"
+  },
+  "social": [{
+    "label": "",
+    "network": "GitHub",
+    "user": "golovinaGit",
+    "url": "https://github.com/golovinaGit"
+  }],
+  "education": {
+    "summary": "Computer sciences & automated control systems",
+    "level": "degree",
+    "degree": "Master",
+    "history": [{
+        "institution": "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute",
+        "title": "Master of Law",
+        "url": "http://kpi.ua",
+        "start": "2013-09",
+        "end": "2018-02",
+        "grade": "A"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [{
+        "name": "Web Dev/Testing",
+        "level": "intermediate",
+        "skills": [
+          "HTML5",
+          "CSS",
+          "NET Core",
+          "REST API",
+          "Working with bug tracking systems (Jira, TestRail).",
+          "Bug lifecycle",
+          "Basic knowledge HTML/CSS/JS and OOP",
+          "Manual testing", 
+          "Function testing", 
+          "Usability testing,",
+          "Regression testing,",
+          "Cross-browser testing",
+          "Google Chrome Dev tools",
+          "Knowledge of Software Testing Life Cycle, Test Design Techniques",
+          "Software testing approaches (BDD)",
+          "Acquainted with Agile. Kanban",
+          "Postman (API testing)"
+        ]
+      }
+    ],
+    "list": []
+  },
+  "reading": [{
+      "title": "Javascript Weekly newsletter",
+      "flavor": "website",
+      "url": "https://javascriptweekly.com/"
+    },
+    {
+      "title": "Frontend Focus newsletter",
+      "flavor": "website",
+      "url": "https://frontendfoc.us/"
+    },
+    {
+      "title": "Medium Subscriber",
+      "flavor": "website",
+      "url": "https://medium.com/"
+    }
+  ],
+  "recognition": [{
+    "flavor": "ceretificate",
+    "from": "Udemy",
+    "title": "C# Intermediate: Classes, Interfaces and OOP",
+    "event": "C# Intermediate: Classes, Interfaces and OOP Certification",
+    "url": "https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/learn/lecture/2409208#overview",
+    "date": "2020",
+    "summary": "An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#"
+  }],
+  "languages": [{
+      "language": "English",
+      "level": "intermediate"
+    },
+    {
+      "language": "Russian",
+      "level": "native"
+    },
+    {
+      "language": "Ukrainian",
+      "level": "native"
+    }
+  ]
+}
